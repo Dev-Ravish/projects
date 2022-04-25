@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Water+Brush&display=swap");
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.brand-name {
+  font-family: "Water Brush", cursive;
+  font-size: 32px !important;
+}
+
+.nav-item {
+  font-size: 18px !important;
+}
+
+::content {
+  margin: 0 4px;
+}
+
+.poster-name {
+  font-size: 40px;
+  color: #212529 !important;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.poster {
+  border-radius: 0% !important;
+  border: none !important;
+  padding-bottom: 24px;
+}
+
+.card-image {
+  margin: 24px 0px;
+}
+
+.footer-part {
+  padding: 0px 16px;
+}
